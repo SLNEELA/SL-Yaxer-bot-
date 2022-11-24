@@ -68,7 +68,7 @@
             "required": false,
             "value":"+94763873588"
         },
-        "ALIVE": {alive 
+        "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
