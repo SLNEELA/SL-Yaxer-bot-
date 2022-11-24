@@ -1,7 +1,7 @@
 {
 	"name": "SL Yaxer bot",
 	"description": "Welcome to Yaxer Whatsapp bot.",
-	"keywords": [Hi
+	"keywords": [
 		"whatsapp",
 		"bot"
 	],
@@ -13,27 +13,27 @@
             "required": true,
             "value":".,"
         },
-        "ANTILINK_WARN": {Dont!
+        "ANTILINK_WARN": {
             "description": "Groups for antilink (JIDS)",
             "required": false,
             "value":"jid,jid"
         },
-        "READ_MESSAGES": {read 
+        "READ_MESSAGES": {
             "description": "Bot will read all messages. Can be also false",
             "required": true,
             "value":"false"
         },
-        "READ_COMMAND": {read 
+        "READ_COMMAND": {
             "description": "Bot will read all commands (blue tick). Can be also false",
             "required": true,
             "value":"true"
         
-       "HEROKU_API_KEY": {2090a918-fd14-4fc9-a0f7-dc7e51accd33
+       "HEROKU_API_KEY": {
             "description": "For updating bot and setting vars remotely",
             "required": true,
             "value":""
         },
-        "HEROKU_APP_NAME": {slyaxer
+        "HEROKU_APP_NAME": {
             "description": "Exact name which you gave at the top",
             "required": true,
             "value":""
@@ -48,7 +48,7 @@
             "required": true,
             "value":"off"
         },
-        "BOT_NAME": {Yaxer bot 
+        "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
             "value":"Raganork"
@@ -73,7 +73,7 @@
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
-       "SESSION": {Raganork~6847bd0101ab9c6a804f532381f62fde:70505866794d4e31774b4d3d
+       "SESSION": {
             "description": "Your MD session",
             "required": true
              
