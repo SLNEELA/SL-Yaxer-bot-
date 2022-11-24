@@ -1,7 +1,7 @@
 {
 	"name": "SL Yaxer bot",
-	"description": "Wa Bot.",
-	"keywords": [
+	"description": "Welcome to Yaxer Whatsapp bot.",
+	"keywords": [Hi
 		"whatsapp",
 		"bot"
 	],
@@ -13,27 +13,27 @@
             "required": true,
             "value":".,"
         },
-        "ANTILINK_WARN": {
+        "ANTILINK_WARN": {Dont!
             "description": "Groups for antilink (JIDS)",
             "required": false,
             "value":"jid,jid"
         },
-        "READ_MESSAGES": {
+        "READ_MESSAGES": {read 
             "description": "Bot will read all messages. Can be also false",
             "required": true,
             "value":"false"
         },
-        "READ_COMMAND": {
+        "READ_COMMAND": {read 
             "description": "Bot will read all commands (blue tick). Can be also false",
             "required": true,
             "value":"true"
-        },
-       "HEROKU_API_KEY": {
+        
+       "HEROKU_API_KEY": {2090a918-fd14-4fc9-a0f7-dc7e51accd33
             "description": "For updating bot and setting vars remotely",
             "required": true,
             "value":""
         },
-        "HEROKU_APP_NAME": {
+        "HEROKU_APP_NAME": {slyaxer
             "description": "Exact name which you gave at the top",
             "required": true,
             "value":""
@@ -48,7 +48,7 @@
             "required": true,
             "value":"off"
         },
-        "BOT_NAME": {
+        "BOT_NAME": {Yaxer bot 
             "description": "Name of AI chatbot",
             "required": true,
             "value":"Raganork"
@@ -61,19 +61,19 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
             "value":"+94763873588"
         },
-        "ALIVE": {
+        "ALIVE": {alive 
             "description": "Alive message {image/link}, {sender} can also be used",
             "required": false,
             "value":"{pp} Active since {uptime}\n User:{sender}"
         },
-       "SESSION": {
+       "SESSION": {Raganork~6847bd0101ab9c6a804f532381f62fde:70505866794d4e31774b4d3d
             "description": "Your MD session",
             "required": true
              
